@@ -14,4 +14,10 @@
 | | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [golang](./solution_Fly/最大正方形.md) | [golang](./solution_Rain/最大正方形.md) | middle |
 | | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [golang](./solution_Fly/LRU缓存机制.md) | [golang](./solution_Rain/LRU缓存机制.md) | hard |
 | | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | [golang](./solution_Fly/简化路径.md) | [golang](./solution_Rain/简化路径.md) | easy |
+| | [岛屿的最大面积](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1034/) |  |  | middle |
+| | [搜索旋转排序数组](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1017/) |  |  | middle |
+| | [二叉树的最近公共祖先](https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1026/) |  |  | middle |
+| | [全 O(1) 的数据结构](https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1033/) |  |  | middle |
+| | [三角形最小路径和](https://leetcode-cn.com/explore/interview/card/bytedance/246/dynamic-programming-or-greedy/1030/) |  |  | middle |
+| | [数组中的第K个最大元素](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1018/) |  |  | middle |
 
