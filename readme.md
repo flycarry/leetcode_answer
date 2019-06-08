@@ -17,13 +17,13 @@
 | | [岛屿的最大面积](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1034/) | [golang](./solution_Fly/岛屿的最大面积.md) | [golang](./solution_Rain/岛屿的最大面积.md) | middle |
 | | [搜索旋转排序数组](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1017/) | [golang](./solution_Fly/搜索旋转排序数组.md) | [golang](./solution_Rain/搜索旋转排序数组.md) | middle |
 | | [二叉树的最近公共祖先](https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1026/) | [golang](./solution_Fly/二叉树的最近公共祖先.md) | [golang](./solution_Rain/二叉树的最近公共祖先.md) | middle |
-| | [全 O(1) 的数据结构](https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1033/) |  | [golang](./solution_Rain/全O(1)的数据结构.md) | middle |
+| | [全 O(1) 的数据结构](https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1033/) | [golang](./solution_Fly/全 O(1) 的数据结构.md) | [golang](./solution_Rain/全O(1)的数据结构.md) | middle |
 | | [三角形最小路径和](https://leetcode-cn.com/explore/interview/card/bytedance/246/dynamic-programming-or-greedy/1030/) | [golang](./solution_Fly/三角形最小路径和.md) | [golang](./solution_Rain/三角形最小路径和.md) | middle |
 | | [数组中的第K个最大元素](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1018/) | [golang](./solution_Fly/数组中的第K个最大元素.md) | [golang](./solution_Rain/数组中的第K个最大元素.md) | middle |
-| | [朋友圈](<https://leetcode-cn.com/problems/friend-circles/>) |  |  | middle |
-| | [反转链表](<https://leetcode-cn.com/problems/reverse-linked-list/>) |  |  | easy |
-| | [反转链表2](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) |  |  | hard |
-| | [合并两个有序链表](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) |  |  | easy |
-| | [合并K个排序列表](<https://leetcode-cn.com/problems/merge-k-sorted-lists/>) |  |  | hard |
-|  | [俄罗斯套娃信封问题](<https://leetcode-cn.com/problems/russian-doll-envelopes/>) |                                                   |  | hard |
+| | [朋友圈](<https://leetcode-cn.com/problems/friend-circles/>) | [golang](./solution_Fly/朋友圈.md) |  | middle |
+| | [反转链表](<https://leetcode-cn.com/problems/reverse-linked-list/>) | [golang](./solution_Fly/反转链表.md) |  | easy |
+| | [反转链表2](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) | [golang](./solution_Fly/反转链表2.md) |  | hard |
+| | [合并两个有序链表](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) | [golang](./solution_Fly/合并两个有序链表.md) |  | easy |
+| | [合并K个排序列表](<https://leetcode-cn.com/problems/merge-k-sorted-lists/>) | [golang](./solution_Fly/合并K个排序列表.md) |  | hard |
+|  | [俄罗斯套娃信封问题](<https://leetcode-cn.com/problems/russian-doll-envelopes/>) | [golang](./solution_Fly/俄罗斯套娃信封问题.md) |  | hard |
 
