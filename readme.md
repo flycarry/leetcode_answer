@@ -26,11 +26,11 @@
 | | [合并两个有序链表](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) | [golang](./solution_Fly/合并两个有序链表.md) | [golang](./solution_Rain/合并两个有序链表.md) | easy |
 | | [合并K个排序列表](<https://leetcode-cn.com/problems/merge-k-sorted-lists/>) | [golang](./solution_Fly/合并K个排序列表.md) | [golang](./solution_Rain/合并K个排序链表.md) | hard |
 |  | [俄罗斯套娃信封问题](<https://leetcode-cn.com/problems/russian-doll-envelopes/>) | [golang](./solution_Fly/俄罗斯套娃信封问题.md) | [golang](./solution_Rain/俄罗斯套娃信封问题.md) | hard |
-| | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-sequence/) | [golang](./solution_Fly/最长等差数列.md) |  | middle |
+| | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-sequence/) | [golang](./solution_Fly/最长等差数列.md) | [golang](./solution_Rain/最长等差数列.md) | middle |
 | | [接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [golang](./solution_Fly/收集雨水2.md) |  | hard |
-| | [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | [golang](./solution_Fly/笨阶乘.md) |  | middle |
-| | [子集](https://leetcode-cn.com/problems/subsets/) | [golang](./solution_Fly/子集.md) |  | middle |
-| | [最小栈](<https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1049/>) | [golang](./solution_Fly/最小栈.md) |  | hard |
-| | [两数相加](<https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1022/>) | [golang](./solution_Fly/两数相加.md) |  | middle |
+| | [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | [golang](./solution_Fly/笨阶乘.md) | [golang](./solution_Rain/笨阶乘.md) | middle |
+| | [子集](https://leetcode-cn.com/problems/subsets/) | [golang](./solution_Fly/子集.md) | [golang](./solution_Rain/子集.md) | middle |
+| | [最小栈](<https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1049/>) | [golang](./solution_Fly/最小栈.md) | [golang](./solution_Rain/最小栈.md) | hard |
+| | [两数相加](<https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1022/>) | [golang](./solution_Fly/两数相加.md) | [golang](./solution_Rain/两数相加.md) | middle |
 
 
