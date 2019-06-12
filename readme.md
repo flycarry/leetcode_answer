@@ -41,7 +41,7 @@
 | | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | [golang](./solution_Rain/根据身高重建队列.md) | middle |
 | | [排序链表](https://leetcode-cn.com/problems/sort-list/) |  | | middle |
 | | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |  | | middle |
-| | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | | easy |
+| | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | [golang](./solution_Rain/求众数.md) | easy |
 | | [全排列](https://leetcode-cn.com/problems/permutations/) |  | | middle |
 | | [不同路径](https://leetcode-cn.com/problems/unique-paths/) |  | | middle |
 
