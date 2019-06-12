@@ -38,7 +38,7 @@
 | | [滑动窗口最大值](<https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/266/heap-stack-queue/1158/>) | [golang](./solution_Fly/滑动窗口最大值.md) | [golang](./solution_Rain/滑动窗口最大值.md) |  |
 | | [摆动排序2](<https://leetcode-cn.com/problems/wiggle-sort-ii/>) | [golang](./solution_Fly/摆动排序2.md) | [golang](./solution_Rain/摆动排序2.md) |  |
 | | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [golang](./solution_Fly/二叉树中的最大路径和.md) | [golang](./solution_Rain/二叉树中的最大路径和.md) |  |
-| | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | | middle |
+| | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | [golang](./solution_Rain/根据身高重建队列.md) | middle |
 | | [排序链表](https://leetcode-cn.com/problems/sort-list/) |  | | middle |
 | | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |  | | middle |
 | | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | | easy |
