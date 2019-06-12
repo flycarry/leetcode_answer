@@ -32,11 +32,17 @@
 | | [子集](https://leetcode-cn.com/problems/subsets/) | [golang](./solution_Fly/子集.md) | [golang](./solution_Rain/子集.md) | middle |
 | | [最小栈](<https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1049/>) | [golang](./solution_Fly/最小栈.md) | [golang](./solution_Rain/最小栈.md) | hard |
 | | [两数相加](<https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1022/>) | [golang](./solution_Fly/两数相加.md) | [golang](./solution_Rain/两数相加.md) | middle |
-| | [最长连续递增序列](<https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1035/>) |  |  |  |
-| | [二叉树的锯齿形层次遍历](<https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1027/>) |  |  |  |
-| | [分割回文串](<https://leetcode-cn.com/problems/palindrome-partitioning/>) |  |  |  |
-| | [滑动窗口最大值](<https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/266/heap-stack-queue/1158/>) |  |  |  |
-| | [摆动排序2](<https://leetcode-cn.com/problems/wiggle-sort-ii/>) |  |  |  |
-| | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |  |  |  |
+| | [最长连续递增序列](<https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1035/>) | [golang](./solution_Fly/最长连续递增序列.md) |  |  |
+| | [二叉树的锯齿形层次遍历](<https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1027/>) | [golang](./solution_Fly/二叉树的锯齿形层次遍历.md) |  |  |
+| | [分割回文串](<https://leetcode-cn.com/problems/palindrome-partitioning/>) | [golang](./solution_Fly/分割回文串.md) |  |  |
+| | [滑动窗口最大值](<https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/266/heap-stack-queue/1158/>) | [golang](./solution_Fly/滑动窗口最大值.md) |  |  |
+| | [摆动排序2](<https://leetcode-cn.com/problems/wiggle-sort-ii/>) | [golang](./solution_Fly/摆动排序2.md) |  |  |
+| | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [golang](./solution_Fly/二叉树中的最大路径和.md) |  |  |
+| | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | | middle |
+| | [排序链表](https://leetcode-cn.com/problems/sort-list/) |  | | middle |
+| | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |  | | middle |
+| | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | | easy |
+| | [全排列](https://leetcode-cn.com/problems/permutations/) |  | | middle |
+| | [不同路径](https://leetcode-cn.com/problems/unique-paths/) |  | | middle |
 
 
