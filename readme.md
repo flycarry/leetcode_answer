@@ -44,5 +44,10 @@
 | | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | [golang](./solution_Rain/求众数.md) | easy |
 | | [全排列](https://leetcode-cn.com/problems/permutations/) |  | [golang](./solution_Rain/全排列.md) | middle |
 | | [不同路径](https://leetcode-cn.com/problems/unique-paths/) |  | | middle |
+| | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | | |  |
+| | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | | |  |
+| | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | | |  |
+| | [从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | | |  |
+| | [ 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | | |  |
 
 
