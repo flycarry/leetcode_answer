@@ -38,16 +38,21 @@
 | | [滑动窗口最大值](<https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/266/heap-stack-queue/1158/>) | [golang](./solution_Fly/滑动窗口最大值.md) | [golang](./solution_Rain/滑动窗口最大值.md) |  |
 | | [摆动排序2](<https://leetcode-cn.com/problems/wiggle-sort-ii/>) | [golang](./solution_Fly/摆动排序2.md) | [golang](./solution_Rain/摆动排序2.md) |  |
 | | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [golang](./solution_Fly/二叉树中的最大路径和.md) | [golang](./solution_Rain/二叉树中的最大路径和.md) |  |
-| | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) |  | [golang](./solution_Rain/根据身高重建队列.md) | middle |
-| | [排序链表](https://leetcode-cn.com/problems/sort-list/) |  | | middle |
+| | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [golang](./solution_Fly/根据身高重建队列.md) | [golang](./solution_Rain/根据身高重建队列.md) | middle |
+| | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [golang](./solution_Fly/排序链表.md) | | middle |
 | | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) |  | | middle |
-| | [求众数](https://leetcode-cn.com/problems/majority-element/) |  | [golang](./solution_Rain/求众数.md) | easy |
-| | [全排列](https://leetcode-cn.com/problems/permutations/) |  | [golang](./solution_Rain/全排列.md) | middle |
-| | [不同路径](https://leetcode-cn.com/problems/unique-paths/) |  | | middle |
-| | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | | |  |
-| | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | | |  |
-| | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | | |  |
-| | [从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | | |  |
-| | [ 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | | |  |
+| | [求众数](https://leetcode-cn.com/problems/majority-element/) | [golang](./solution_Fly/求众数.md) | [golang](./solution_Rain/求众数.md) | easy |
+| | [全排列](https://leetcode-cn.com/problems/permutations/) | [golang](./solution_Fly/全排列.md) | [golang](./solution_Rain/全排列.md) | middle |
+| | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [golang](./solution_Fly/不同路径.md) | | middle |
+| | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [golang](./solution_Fly/求众数.md) | |  |
+| | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [golang](./solution_Fly/螺旋矩阵.md) | |  |
+| | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [golang](./solution_Fly/求众数.md) | |  |
+| | [从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [golang](./solution_Fly/从二叉搜索树到更大和树.md) | |  |
+| | [ 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) |  | |  |
+| | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) |  | | |
+| | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |  | | |
+| | [有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) |  | | |
+| | [第一个缺失的正数](<https://leetcode-cn.com/explore/interview/card/top-interview-questions-hard/55/array-and-strings/128/>) |  | | |
+| | [Perfect Squares](<https://leetcode-cn.com/explore/interview/card/top-interview-questions-hard/60/dynamic-programming/156/>) |  | | |
 
 
